@@ -1,3 +1,5 @@
+com/Kevin/Graduated.java
+ com.Kevin.Graduated
 com/Kevin/Student.java
  com.Kevin.Student
 com/Kevin/Scoring.java

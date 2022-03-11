@@ -8,14 +8,27 @@ public class Student {
         this.name = name;
     }
     public Student(String name, int english, int math) {
-        this.name = name;
+        this(name);
+        // this.name = name;
         this.math = math;
         this.english = english;
     }
     public Student() {
-
+        this("Shiro", -1, -1);
     }
     public void print() {
-        System.out.println(name + "\t" + english + "\t" + math);
+        int average = (english + math )/2;
+        System.out.println(name + "\t" + english + "\t" + math + "\t"+getAverage());
+        if(average < 60) {
+            System.out.println("*");
+        }  else {
+            System.out.println();
+        }
+
+
+
+    }
+    public int getAverage() {
+        return (english + math )/2;
     }
 }
