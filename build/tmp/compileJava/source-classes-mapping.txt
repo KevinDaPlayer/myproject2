@@ -8,5 +8,7 @@ com/Kevin/Customer.java
  com.Kevin.Customer
 com/Kevin/SilverCustomer.java
  com.Kevin.SilverCustomer
+com/Kevin/GoldenCustomer.java
+ com.Kevin.GoldenCustomer
 com/Kevin/Shopee.java
  com.Kevin.Shopee
