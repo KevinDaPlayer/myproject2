@@ -26,7 +26,6 @@ public class Student {
         }
 
 
-
     }
     public int getAverage() {
         return (english + math )/2;

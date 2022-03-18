@@ -4,3 +4,9 @@ com/Kevin/Student.java
  com.Kevin.Student
 com/Kevin/Scoring.java
  com.Kevin.Scoring
+com/Kevin/Customer.java
+ com.Kevin.Customer
+com/Kevin/SilverCustomer.java
+ com.Kevin.SilverCustomer
+com/Kevin/Shopee.java
+ com.Kevin.Shopee
