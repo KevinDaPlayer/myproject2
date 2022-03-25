@@ -1,6 +1,6 @@
-package com.Kevin;
+package com.Kevin.Shop;
 
-public class SilverCustomer extends Customer{
+public class SilverCustomer extends Customer {
     public SilverCustomer (String name, int consumption) {
         super(name, consumption);
     }

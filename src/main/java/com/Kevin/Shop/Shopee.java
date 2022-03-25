@@ -1,4 +1,4 @@
-package com.Kevin;
+package com.Kevin.Shop;
 
 public class Shopee {
     public static void main(String[] args) {

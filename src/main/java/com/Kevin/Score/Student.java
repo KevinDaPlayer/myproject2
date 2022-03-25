@@ -1,4 +1,4 @@
-package com.Kevin;
+package com.Kevin.Score;
 
 public class Student {
     String name;

@@ -1,6 +1,8 @@
-package com.Kevin;
+package com.Kevin.Score;
 
-public class Graduated extends Student{
+import com.Kevin.Score.Student;
+
+public class Graduated extends Student {
     int thesis;
     public Graduated(String name, int english, int math, int thesis) {
         super(name, english, math);
