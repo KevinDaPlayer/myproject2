@@ -1,6 +1,6 @@
 package com.Kevin.Score;
 
-public class Student {
+public class Student implements Printable{
     String name;
     int english;
     int math;
@@ -16,6 +16,7 @@ public class Student {
     public Student() {
         this("Shiro", -1, -1);
     }
+    @Override
     public void print() {
         int average = (english + math )/2;
         System.out.println(name + "\t" + english + "\t" + math + "\t"+getAverage());

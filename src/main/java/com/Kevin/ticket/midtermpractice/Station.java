@@ -1,9 +1,9 @@
-package com.Kevin.midtermpractice;
+package com.Kevin.ticket.midtermpractice;
 
 public class Station {
     public static final Station TAIPEI_STATION = new Station(100, "Taipei");
     public static final Station  TAICHUNG_STATION = new Station(200, "Taichung");
-    public static final Station KOAHSHUNG_STATION = new Station(300, "Koahchung");
+    public static final Station KOAHSHUNG_STATION = new Station(400, "Koahchung");
 
     int id;
     String name;

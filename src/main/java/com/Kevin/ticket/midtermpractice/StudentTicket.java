@@ -1,4 +1,4 @@
-package com.Kevin.midtermpractice;
+package com.Kevin.ticket.midtermpractice;
 
 public class StudentTicket extends Ticket{
     float off = 0.1f;

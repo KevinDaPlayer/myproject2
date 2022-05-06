@@ -1,4 +1,4 @@
-package com.Kevin.midtermpractice;
+package com.Kevin.ticket.midtermpractice;
 
 import java.util.ArrayList;
 import java.util.Scanner;
