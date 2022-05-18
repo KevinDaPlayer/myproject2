@@ -32,6 +32,7 @@ public class Runner {
                fees1 = fees1 + 30;
            }
            int fees2 = 30*(mins/60);
+           //3:15-3:30 => NTD$105
            if (f >= 15 && f <= 30) {
                fees2 = fees2 + 15;
            } else if (f > 30) {
