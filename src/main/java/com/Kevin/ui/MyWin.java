@@ -16,7 +16,7 @@ public class MyWin {
         MyActionListener actionListener = new MyActionListener();
         button.addActionListener(new ActionListener() {
             @Override
-            public  void actionPerformed (ActionEvent actionEvent) {
+            public void actionPerformed (ActionEvent actionEvent) {
                 System.out.println("HelloWorld!!!");
             }
         });
