@@ -1,0 +1,2 @@
+nishida,700
+ishikawa,1000
